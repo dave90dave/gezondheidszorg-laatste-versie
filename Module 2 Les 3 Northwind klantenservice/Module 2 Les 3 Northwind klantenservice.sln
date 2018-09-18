@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module 2 Les 3 Northwind klantenservice", "Module 2 Les 3 Northwind klantenservice\Module 2 Les 3 Northwind klantenservice.csproj", "{251B1CBD-62E0-4E4F-A13C-B2A4FCA3F79A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251B1CBD-62E0-4E4F-A13C-B2A4FCA3F79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251B1CBD-62E0-4E4F-A13C-B2A4FCA3F79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251B1CBD-62E0-4E4F-A13C-B2A4FCA3F79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251B1CBD-62E0-4E4F-A13C-B2A4FCA3F79A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD12C0FA-0ECE-45E7-8DC7-D087BFB8F6C5}
+	EndGlobalSection
+EndGlobal

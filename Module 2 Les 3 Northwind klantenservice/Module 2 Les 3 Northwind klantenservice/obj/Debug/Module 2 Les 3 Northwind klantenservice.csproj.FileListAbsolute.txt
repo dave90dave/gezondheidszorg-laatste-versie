@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Module 2 Les 3 Northwind klantenservice\Module 2 Les 3 Northwind klantenservice\obj\Debug\Module_2_Les_3_Northwind_klantenservice.Form1.resources
+C:\Users\Administrator\source\repos\Module 2 Les 3 Northwind klantenservice\Module 2 Les 3 Northwind klantenservice\obj\Debug\Module_2_Les_3_Northwind_klantenservice.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Module 2 Les 3 Northwind klantenservice\Module 2 Les 3 Northwind klantenservice\obj\Debug\Module 2 Les 3 Northwind klantenservice.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Module 2 Les 3 Northwind klantenservice\Module 2 Les 3 Northwind klantenservice\obj\Debug\Module 2 Les 3 Northwind klantenservice.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Module 2 Les 3 Northwind klantenservice\Module 2 Les 3 Northwind klantenservice\bin\Debug\Northwind.mdf
+C:\Users\Administrator\source\repos\Module 2 Les 3 Northwind klantenservice\Module 2 Les 3 Northwind klantenservice\bin\Debug\Northwind_log.ldf
+C:\Users\Administrator\source\repos\Module 2 Les 3 Northwind klantenservice\Module 2 Les 3 Northwind klantenservice\bin\Debug\Module 2 Les 3 Northwind klantenservice.exe.config
+C:\Users\Administrator\source\repos\Module 2 Les 3 Northwind klantenservice\Module 2 Les 3 Northwind klantenservice\bin\Debug\Module 2 Les 3 Northwind klantenservice.exe
+C:\Users\Administrator\source\repos\Module 2 Les 3 Northwind klantenservice\Module 2 Les 3 Northwind klantenservice\bin\Debug\Module 2 Les 3 Northwind klantenservice.pdb
+C:\Users\Administrator\source\repos\Module 2 Les 3 Northwind klantenservice\Module 2 Les 3 Northwind klantenservice\obj\Debug\Module 2 Les 3 Northwind klantenservice.exe
+C:\Users\Administrator\source\repos\Module 2 Les 3 Northwind klantenservice\Module 2 Les 3 Northwind klantenservice\obj\Debug\Module 2 Les 3 Northwind klantenservice.pdb
+C:\Users\Administrator\source\repos\Module 2 Les 3 Northwind klantenservice\Module 2 Les 3 Northwind klantenservice\obj\Debug\Module 2 Les 3 Northwind klantenservice.csprojAssemblyReference.cache
